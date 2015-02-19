@@ -1,0 +1,68 @@
+body {
+	/*background-image: url('http://www.fromquarkstoquasars.com/wp-content/uploads/2014/12/computer-wires.jpg'); */
+	background-color: #A7A7C4;
+	background-size: 100%; 
+	text-align:justify;
+}
+	
+#topbar {
+	background: linear-gradient(#A7A7C4, white);
+	/*margin-bottom: 10px;*/
+	width: 100%;
+    	height: 150px;
+
+}
+#name {
+	position: absolute;
+	margin-left: 150px;
+	margin-top: -70px;
+	font-size: 60px;
+}
+#menu {
+	border-top-style: solid;
+	background-color: #FFC2EB;
+	width: 100%;
+	float: left;	
+	margin-bottom: 5px;
+}
+
+#email {
+	position: absolute;
+	margin-right: 80%;
+	
+}
+img {
+	position: relative;
+	margin-left: 18px;
+	margin-top: 5px;
+	z-index: 10;
+	height: 125px;
+	width: 125px;
+}
+#sidebar {
+	float: right;
+	width: 300px;
+	height: 650px;
+	background-color: #FFE0F5;
+	margin-right: 20px;
+}
+#maininfo {
+	float: left;
+	/*margin-left: 10px;*/
+	width: 1000px;
+	height: 650px;
+	background-color: pink;
+}
+.headers {
+	border-bottom-style: groove;
+}
+#menuwords {
+	position: relative;
+	margin-left: 20px;
+}
+#sidetitle {
+	text-align: center;
+	border-bottom-style: groove;
+}
+
+
